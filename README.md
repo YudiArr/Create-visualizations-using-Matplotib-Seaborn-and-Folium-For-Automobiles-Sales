@@ -5,7 +5,7 @@ This case study explores how various economic recessions, from the 1980s to the 
 - Advertising budgets decrease during recessions; non-recession periods see more spending.
 - Superminicar sales rise with low unemployment; small family cars stable.
 
-- In this assignment you will be tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods.<br>
+# In this assignment you will be tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods.<br>
 recession period 1 - year 1980 <br>
 recession period 2 - year 1981 to 1982<br>
 recession period 3 - year 1991<br>
